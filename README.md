@@ -42,10 +42,10 @@ Los exámenes pueden ser orales o escritos.
 *
 
 ## Trabajo Final
-El trabajo final se divide en dos partes. El resumen escrito y la elaboración-presentación de un poster científico virtual. El tema del trabajo debe estar relacionado con un tema del curso y deberá tener como base al menos 2 artículos de investigación indexados.
+El trabajo final se divide en dos partes. El resumen escrito (600 palabras máximo) y la elaboración-presentación de un poster científico virtual. El tema del trabajo debe estar relacionado con un tema del curso y deberá tener como base al menos 2 artículos de investigación indexados.
 
-*  Rúbrica Abstract: Ortografía, redacción, citas  y bibliografía (estilo APA).
-*  Rúbrica Poster:
+*  Rúbrica Abstract: 50% Ortografía, redacción, citas  y bibliografía (estilo APA). 50% Contenido, estructura, claridad y desarrollo de ideas.
+*  Rúbrica Poster: Diseño y estructura del poster (Ortografía, redacción, citas  y bibliografía). Presentación . Dominio del tema. Ronda depreguntas. 
 * El poster se presentará al final del curso ante un jurado evaluador.
 * Para tener derecho a la presentación de su trabajo deberán entregar el resumen escrito (abstract) de su trabajo.
 
