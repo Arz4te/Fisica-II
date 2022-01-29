@@ -1,24 +1,24 @@
 # Fisica-II
 Este curso pretende dar un esbozo o introducción a la física de medios continuos y termodinámica clásica. A continuación se da una descripción general del funcionamiento de este curso.
 
-# Horario
+## Horario
 * Martes y Jueves de 16:00hrs-18:30hrs.
 
-Temario y Bibliografía
+##Temario y Bibliografía
 * Temario: http://www.iicba.uaem.mx/init/oferta_educativa/unidad_aprendizaje?ua=24
 
-# Clases Virtuales
+## Clases Virtuales
 * Las clases virtuales se llevarán a cabo en VC-espresso mediante el siguiente link: https://vcespresso.redclara.net/vc/vcIn.php?var=jose.arzate@uaem.mx
 * Este otro link https://drive.google.com/file/d/1eL64cIpFx_tjycDDiB4FroSrCMcF7cPk/view?usp=sharing los lleva a una infografía que explica cómo manejar algunas herramientas de la plataforma de videoconferencias, como subir una presentación de diapositivas, subir un archivo en pdf, activar los cursores para los demás participantes, etc. La infografía, es de la sala de seminarios de mi grupo de trabajo (complexsys) pero la plataforma y lógica de manejo es la misma. Solo usen la infografía para manejar las herramientas, omitan paso 1 y 2.
 
-###### SISTEMA DE EVALUACIÓN ######
+#SISTEMA DE EVALUACIÓN
 * 20% Jupyter Notebook
 * 20% Quiz
 * 20% Tareas 
 * 20% Exámenes
 * 20% Trabajo Final
 
-# Jupyter NoteBook
+## Jupyter NoteBook
 Vamos a usar Google Colab para generar un notebook de trabajo virtual online. Este tipo de documentos soportan el uso de escritura en latex, http, el uso de imágenes y videos, escribir y ejecutar código en python. Aqui van 2 links sobre lo que es: https://colab.research.google.com/notebooks/intro.ipynb?hl=es, https://www.youtube.com/watch?v=8VFYs3Ot_aA
 * Les mando un notebook  introductorio (Jupyter Notebook: https://drive.google.com/file/d/1-IIPjHQytXcYZnytBxcj-jBdi8k_Zceg/view?usp=sharing) que hice para uds, para que tengan un ejemplo. Por favor bájenlo y guárdenlo o súbanlo a Google Drive o alguna nube.
 * Aqui hay paginas que les daran trucos y consejos para mejorar la edición de su notebook: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet, https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd
