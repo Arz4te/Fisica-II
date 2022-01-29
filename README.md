@@ -31,7 +31,7 @@ Vamos a usar Google Colab para generar un Notebook online de trabajo. Este noteb
 * Como opción adicional pueden generar notebooks en sus computadoras. Para lo anterior deberán instalar Anaconda (https://www.anaconda.com/). En principio no tiene problemas en correr en linux, windows o mac. 
 
 ## Quiz
-La intención del quiz es responder con sus palabras y de forma sucinta sobre conceptos específicos de temas vistos en clases anteriores.
+La intención del quiz es responder con sus palabras y de forma sucinta sobre conceptos específicos (fórmulas, conceptos y/o pequeños problemas) de temas vistos en clases anteriores. 
 * El quiz usualmente se llevará a cabo en los primeros 10 mins. de la clase pero también pueden ser espontáneos.
 * El objetivo es que revisen sus apuntes al menos 15 o 20 mins. antes de la clase.
 
