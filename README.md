@@ -43,3 +43,9 @@ Los exámenes pueden ser orales o escritos.
 
 ## Trabajo Final
 El trabajo final tiene como objetivo que hagan un resumen escrito y un poster sobre un tema relacionado con el curso. El cual presentarán en a final del curso ante un jurado evaluador. Para tener derecho a la presentación de su trabajo deberán entregar un abstract de su trabajo.
+
+* Nature: https://www.nature.com/articles/nj7614-115a
+* Tutorial 1: https://www.youtube.com/playlist?list=PLpEJ97U4ZamXD7a3V0UwWZSmfWsw9rfW8
+* Tutorial 2: https://www.youtube.com/watch?v=EL5YwkiqBho
+* Science: https://www.sciencedirect.com/science/article/pii/S2049080116301303
+* Examples: https://www.animateyour.science/post/best-examples-of-scientific-posters
