@@ -20,10 +20,12 @@ Este curso pretende dar un esbozo o introducción a la física de medios continu
 * 20% Trabajo Final
 
 ## Jupyter NoteBook
-Vamos a usar Google Colab para generar un notebook de trabajo virtual online. Este tipo de documentos soportan el uso de escritura en latex, http, el uso de imágenes y videos, escribir y ejecutar código en python. Aqui van 2 links sobre lo que es: https://colab.research.google.com/notebooks/intro.ipynb?hl=es, https://www.youtube.com/watch?v=8VFYs3Ot_aA
-* Les mando un notebook  introductorio (Jupyter Notebook: https://drive.google.com/file/d/1-IIPjHQytXcYZnytBxcj-jBdi8k_Zceg/view?usp=sharing) que hice para uds, para que tengan un ejemplo. Por favor bájenlo y guárdenlo o súbanlo a Google Drive o alguna nube.
-* Aqui hay paginas que les daran trucos y consejos para mejorar la edición de su notebook: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet, https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd
-* Si prefieren de forma local (en sus computadoreas) generar el notebook, deberán instalar Anaconda (https://www.anaconda.com/) ya que vamos a usar Jupyter lab para generar el notebook. En principio no tiene problemas en correr en linux, windows o mac. Jupyter Lab es una API donde generar su notebook de trabajo donde vamos a programar y visualizar algunas ecuaciones relacionadas con los temas que veremos a lo largo del curso. Les dejo este link para que lo vayan conociendo (seguro muchos ya lo conocen): https://www.youtube.com/watch?v=CwbMaSkKDZg&t=2s
+Vamos a usar Google Colab para generar un Notebook de trabajo virtual online. Este tipo de documentos soportan el uso de escritura en latex, http, el uso de imágenes y videos, para la documentación de un cuaderno de trabajo sobre el curso. Por otro lado se puede escribir y ejecutar código en python, con el objetivo de replicar algunas curvas relacionadas a fenómenos físicos que serán vistos en este curso.
+
+* Aqui van 2 links sobre lo que es Colab  https://colab.research.google.com/notebooks/intro.ipynb?hl=es, https://www.youtube.com/watch?v=8VFYs3Ot_aA
+* Les mando un notebook  introductorio que deberán usar y modificar para que tengan un ejemplo. Por favor bájenlo y súbanlo a Google Drive para su uso en línea; Jupyter Notebook: https://drive.google.com/file/d/1-IIPjHQytXcYZnytBxcj-jBdi8k_Zceg/view?usp=sharing
+* Aqui hay paginas que les daran trucos y tips para mejorar la edición de su notebook: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet, https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd
+* Como opción adicional fieren de forma local (en sus computadoreas) generar el notebook, deberán instalar Anaconda (https://www.anaconda.com/) ya que vamos a usar Jupyter lab para generar el notebook. En principio no tiene problemas en correr en linux, windows o mac. Jupyter Lab es una API donde generar su notebook de trabajo donde vamos a programar y visualizar algunas ecuaciones relacionadas con los temas que veremos a lo largo del curso. Les dejo este link para que lo vayan conociendo (seguro muchos ya lo conocen): https://www.youtube.com/watch?v=CwbMaSkKDZg&t=2s
 
 
 ## Quiz
