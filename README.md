@@ -29,27 +29,28 @@ Vamos a usar Google Colab para generar un Notebook de trabajo virtual online. Es
 
 
 ## Quiz
-* La intención del quiz es que respondan con sus palabras y de forma sucinta sobre conceptos específicos de temas vistos en clases anteriores. Usualmente se llevarán a cabo en los primeros 10 mins. de la clase pero también pueden ser espontáneos. El objetivo es que revisen sus apuntes al menos 15 o 20 mins. antes de la clase.
+La intención del quiz es responder con sus palabras y de forma sucinta sobre conceptos específicos de temas vistos en clases anteriores.
+* El quiz usualmente se llevará a cabo en los primeros 10 mins. de la clase pero también pueden ser espontáneos.
+* El objetivo es que revisen sus apuntes al menos 15 o 20 mins. antes de la clase.
 
 ## Tareas
-* Las tareas se deberán subir a Google Classroom en formato pdf o word. Pueden usar fotos de su libreta,  en  cuyo caso deberán cargar todas las fotos en un solo archivo pdf. Los problemas deberán tener un desarrollo y procedimiento descrito minuciosamente. Si el procedimiento no está incluido, la respuesta será automáticamente errónea.
+Las tareas deberán incluir el procedimiento y desarrollo descrito minuciosamente. Si el procedimiento no está incluido o la letra no es legible, entonces la respuesta será automáticamente errónea.
+* Las tareas de entrega virtual se deberán subir a Google Classroom en codigo fuente y pdf. El archivo puede incluir fotos. Solo se tomará en cuenta UN SOLO archivo por tarea. 
 Los exámenes pueden ser orales o escritos.
-
-* Los problemas deberán tener un desarrollo y procedimiento descrito minuciosamente.
-* Si el procedimiento no está incluido, la respuesta será automáticamente errónea.
+* Las tareas de forma presencial se entregarán a más tardar al final de la clase (del día estipulado para entrega).
 
 ## Exámenes
-*
+* Los exámenes pueden ser escritos u orales. Los problemas deberán incluir el procedimiento y desarrollo descrito minuciosamente. Si el procedimiento no está incluido o la letra no es legible, entonces la respuesta será automáticamente errónea.
 
 ## Trabajo Final
 El trabajo final se divide en dos partes. El resumen escrito (600 palabras máximo) y la elaboración-presentación de un poster científico virtual. El tema del trabajo debe estar relacionado con un tema del curso y deberá tener como base al menos 2 artículos de investigación indexados.
 
-*  Rúbrica Abstract: 50% Ortografía, redacción, citas  y bibliografía (estilo APA). 50% Contenido, estructura, claridad y desarrollo de ideas.
-*  Rúbrica Poster: Diseño y estructura del poster (Ortografía, redacción, citas  y bibliografía). Presentación . Dominio del tema. Ronda depreguntas. 
+* Rúbrica Abstract: 50% Ortografía, redacción, citas  y bibliografía (estilo APA). 50% Contenido, estructura, claridad y desarrollo de ideas.
+* Rúbrica Poster: Diseño y estructura del poster (Ortografía, redacción, citas  y bibliografía). Presentación . Dominio del tema. Ronda depreguntas. 
 * El poster se presentará al final del curso ante un jurado evaluador.
 * Para tener derecho a la presentación de su trabajo deberán entregar el resumen escrito (abstract) de su trabajo.
 
-Material de apoyo en la elaboración de su poster:
+Material de apoyo para la elaboración del poster:
 * Nature: https://www.nature.com/articles/nj7614-115a
 * Tutorial 1: https://www.youtube.com/playlist?list=PLpEJ97U4ZamXD7a3V0UwWZSmfWsw9rfW8
 * Tutorial 2: https://www.youtube.com/watch?v=EL5YwkiqBho
