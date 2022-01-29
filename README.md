@@ -49,7 +49,7 @@ El trabajo final se divide en dos partes. El resumen escrito (600 palabras máxi
 
 * Rúbrica Abstract: 50% Ortografía, redacción, citas  y bibliografía (estilo APA). 50% Contenido, estructura, claridad y desarrollo de ideas.
 * Rúbrica Poster: Diseño y estructura del poster (Ortografía, redacción, citas  y bibliografía). Presentación . Dominio del tema. Ronda depreguntas. 
-* El poster se presentará al final del curso ante un jurado evaluador.
+* El póster se presentará al final del curso ante un jurado evaluador.
 * Para tener derecho a la presentación de su trabajo deberán entregar el resumen escrito (abstract) de su trabajo.
 
 Material de apoyo para la elaboración del poster:
