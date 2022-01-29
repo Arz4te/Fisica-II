@@ -5,7 +5,8 @@ Este curso pretende dar un esbozo o introducción a la física de medios continu
 * Martes y Jueves de 16:00hrs-18:30hrs.
 
 ## Temario y Bibliografía
-* Temario: http://www.iicba.uaem.mx/init/oferta_educativa/unidad_aprendizaje?ua=24
+* Física: http://www.iicba.uaem.mx/init/oferta_educativa/unidad_aprendizaje?ua=24
+* BQ y BM: http://www.cidc.uaem.mx/wp-content/uploads/2017/08/4.-CUARTO-SEMESTRE.pdf
 
 ## Clases Virtuales
 * Las clases virtuales se llevarán a cabo en VC-espresso mediante el siguiente link: https://vcespresso.redclara.net/vc/vcIn.php?var=jose.arzate@uaem.mx
