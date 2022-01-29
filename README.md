@@ -42,8 +42,14 @@ Los exámenes pueden ser orales o escritos.
 *
 
 ## Trabajo Final
-El trabajo final tiene como objetivo que hagan un resumen escrito y un poster sobre un tema relacionado con el curso. El cual presentarán en a final del curso ante un jurado evaluador. Para tener derecho a la presentación de su trabajo deberán entregar un abstract de su trabajo.
+El trabajo final se divide en dos partes. El resumen escrito y la elaboración-presentación de un poster científico virtual. El tema del trabajo debe estar relacionado con un tema del curso y deberá tener como base al menos 2 artículos de investigación indexados.
 
+*  Rúbrica Abstract: Ortografía, redacción, citas  y bibliografía (estilo APA).
+*  Rúbrica Poster:
+* El poster se presentará al final del curso ante un jurado evaluador.
+* Para tener derecho a la presentación de su trabajo deberán entregar el resumen escrito (abstract) de su trabajo.
+
+Material de apoyo en la elaboración de su poster:
 * Nature: https://www.nature.com/articles/nj7614-115a
 * Tutorial 1: https://www.youtube.com/playlist?list=PLpEJ97U4ZamXD7a3V0UwWZSmfWsw9rfW8
 * Tutorial 2: https://www.youtube.com/watch?v=EL5YwkiqBho
