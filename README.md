@@ -11,6 +11,7 @@ Este curso pretende dar un esbozo o introducción a la física de medios continu
 ## Clases Virtuales
 * Las clases virtuales se llevarán a cabo en VC-espresso mediante el siguiente link: https://vcespresso.redclara.net/vc/vcIn.php?var=jose.arzate@uaem.mx
 * Este otro link https://drive.google.com/file/d/1eL64cIpFx_tjycDDiB4FroSrCMcF7cPk/view?usp=sharing los lleva a una infografía que explica cómo manejar algunas herramientas de la plataforma de videoconferencias, como subir una presentación de diapositivas, subir un archivo en pdf, activar los cursores para los demás participantes, etc. La infografía, es de la sala de seminarios de mi grupo de trabajo (complexsys) pero la plataforma y lógica de manejo es la misma. Solo usen la infografía para manejar las herramientas, omitan paso 1 y 2.
+* ¿qué es? https://www.youtube.com/watch?v=rtra2tL4B3c&ab_channel=RENATARed
 
 # SISTEMA DE EVALUACIÓN
 * 20% Jupyter Notebook
