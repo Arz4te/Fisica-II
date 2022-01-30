@@ -23,7 +23,7 @@ Este curso pretende dar un esbozo o introducción a la física de medios continu
 ## Jupyter NoteBook
 Vamos a usar Google Colab para generar un Notebook online de trabajo. Este notebook debe contener sus apuntes sobre el curso.
 
-* Mediante Colab podemos generar cuadernos de trabajo (Jupyter Notebooks). Aqui van 2 links sobre lo que es Colab  https://colab.research.google.com/notebooks/intro.ipynb?hl=es, https://www.youtube.com/watch?v=8VFYs3Ot_aA.  Les mando un notebook  introductorio que deberán usar y modificar para que tengan un ejemplo. Por favor bájenlo, personalicenlo y modifiquenlo como base para su propio notebook: https://drive.google.com/file/d/1-IIPjHQytXcYZnytBxcj-jBdi8k_Zceg/view?usp=sharing
+* Mediante Colab podemos generar cuadernos de trabajo (Jupyter Notebooks). Aqui van 2 links sobre lo que es Colab  https://colab.research.google.com/notebooks/intro.ipynb?hl=es, https://www.youtube.com/watch?v=8VFYs3Ot_aA.  De este mismo repositorio descarguen el notebook  introductorio (Notebook_Intro_FísicaII.ipynb) que deberán usar y modificar para hacer el suyo. Por favor bájenlo, personalicenlo y modifiquenlo como base para su propio notebook.
 
 * Jupyter Lab es una API donde generar su notebook de trabajo, donde vamos a programar y visualizar algunas ecuaciones relacionadas con los temas que veremos a lo largo del curso. Les dejo este link para que lo vayan conociendo (seguro muchos ya lo conocen) https://www.youtube.com/watch?v=CwbMaSkKDZg&t=2s.
 
